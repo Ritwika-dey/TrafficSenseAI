@@ -76,7 +76,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## ☁️ Live Demo
 
-🔗 **[trafficsense-ai.streamlit.app](https://YOUR-APP-URL.streamlit.app)** ← *(update after deploying)*
+🔗 **https://trafficsenseai-keia85kbh2rgphjpmuaeap.streamlit.app/** 
 
 ---
 
